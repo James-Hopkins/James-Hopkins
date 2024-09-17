@@ -1,5 +1,5 @@
 # I’m @James-Hopkins
-## Web Developer, Programmer & Engineer
+## Software Developer, Programmer & Engineer
 - https://hopkins.irish/
 - https://www.linkedin.com/in/james-hopkins-003830151/
 - james@hopkins.irish
